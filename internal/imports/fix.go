@@ -21,7 +21,6 @@ import (
 	"path"
 	"path/filepath"
 	"reflect"
-	"regexp"
 	"sort"
 	"strconv"
 	"strings"
